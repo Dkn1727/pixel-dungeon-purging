@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Dungeon",
+  "description": "The classic rogue-like dungeon crawler rebuilt in modern Android Kotlin and Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
